@@ -1,0 +1,14 @@
+D:\test\ParkingConsole\ParkingConsole\bin\Debug\net8.0\ParkingConsole.exe
+D:\test\ParkingConsole\ParkingConsole\bin\Debug\net8.0\ParkingConsole.deps.json
+D:\test\ParkingConsole\ParkingConsole\bin\Debug\net8.0\ParkingConsole.runtimeconfig.json
+D:\test\ParkingConsole\ParkingConsole\bin\Debug\net8.0\ParkingConsole.dll
+D:\test\ParkingConsole\ParkingConsole\bin\Debug\net8.0\ParkingConsole.pdb
+D:\test\ParkingConsole\ParkingConsole\obj\Debug\net8.0\ParkingConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\ParkingConsole\ParkingConsole\obj\Debug\net8.0\ParkingConsole.AssemblyInfoInputs.cache
+D:\test\ParkingConsole\ParkingConsole\obj\Debug\net8.0\ParkingConsole.AssemblyInfo.cs
+D:\test\ParkingConsole\ParkingConsole\obj\Debug\net8.0\ParkingConsole.csproj.CoreCompileInputs.cache
+D:\test\ParkingConsole\ParkingConsole\obj\Debug\net8.0\ParkingConsole.dll
+D:\test\ParkingConsole\ParkingConsole\obj\Debug\net8.0\refint\ParkingConsole.dll
+D:\test\ParkingConsole\ParkingConsole\obj\Debug\net8.0\ParkingConsole.pdb
+D:\test\ParkingConsole\ParkingConsole\obj\Debug\net8.0\ParkingConsole.genruntimeconfig.cache
+D:\test\ParkingConsole\ParkingConsole\obj\Debug\net8.0\ref\ParkingConsole.dll
